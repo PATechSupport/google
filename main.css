@@ -1,0 +1,12 @@
+.header {
+  margin-top: 0px;
+  width: 100%;
+  background-color: darkgrey;
+  display: inline;
+}
+
+.footer {
+  margin-bottom: 0px;
+  width: 100%;
+  background-color: darkgrey;
+}
